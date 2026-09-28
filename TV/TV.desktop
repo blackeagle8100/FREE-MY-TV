@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=TV
+Exec=python3 /home/sbe/TV/TV.py
+Icon=/home/sbe/TV/TVFM.png
+Terminal=false
+Categories=Utility;
